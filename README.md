@@ -3,7 +3,7 @@
 Team members:Aida Dosmurat kyzy,
 Erkinay Shamshidinova COM19A
 
-We created a Online Bus Booking System in Asp.net C#, You can book a bus ticket using this web application, and also you can add your Bus and Bus details in this web Application.
+We created a Online Bus Booking System in Asp.net C# with database, You can book a bus ticket using this web application, and also you can add your Bus and Bus details in this web Application.
 
 Online Bus booking System is a Web based application,That works with in centralized network.It provides facility to reserved seats,different type of enquiry which need and instant and quick reservation
 
